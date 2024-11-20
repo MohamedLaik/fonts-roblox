@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Drawnfont';
+    src: url('Drawnfont-Regular.woff2') format('woff2'),
+        url('Drawnfont-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
