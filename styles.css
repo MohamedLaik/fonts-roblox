@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Drawnfont-Regular'; /* Name of the font */
+  src: url('Drawnfont-Regular.ttf') format('truetype'); /* Path to the font */
+}
+
+body {
+  font-family: 'Drawnfont-Regular', sans-serif; /* Apply the font */
+}
